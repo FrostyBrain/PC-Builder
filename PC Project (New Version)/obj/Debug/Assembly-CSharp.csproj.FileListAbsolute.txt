@@ -1,0 +1,2 @@
+C:\Users\vbstudent\Desktop\Week 11 Mobile Deployment\PC Project Early Prototype\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\vbstudent\Desktop\Week 11 Mobile Deployment\PC Project Early Prototype\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
